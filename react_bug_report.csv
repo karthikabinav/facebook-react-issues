@@ -1,7 +1,9 @@
 repository_name,open_bug_count
+meta/react-devtools,0
+meta/react-native-deprecated-modules,0
+react/create-react-app,0
 react/react,352
 react/react-native,0
-react/create-react-app,0
-react/react-strict-dom,0
-react/react-native-website,0
 react/react-native-cdp-status,0
+react/react-native-website,0
+react/react-strict-dom,0
